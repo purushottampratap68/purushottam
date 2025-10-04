@@ -1,3 +1,3 @@
 # purushottam
-My personal portfolio showcasing projects,skills,and achievement in data analytics and business strategy.
+My first github repositories
 Author-Purushottam
